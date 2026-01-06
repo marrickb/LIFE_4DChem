@@ -1,0 +1,1 @@
+This folder contains emission spectra generated using NASA's Planetary Spectrum Generator and in particular the GlobES tool (https://psg.gsfc.nasa.gov/apps/globes.php). Special thanks to Geronimo Villanueva, Thomas Fauchez, and the PSG team for making PSG and GlobES open-source.
